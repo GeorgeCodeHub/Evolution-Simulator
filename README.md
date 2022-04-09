@@ -23,10 +23,6 @@ The objective was the implementation of genetic algorithms at the synchronous an
 - The monitoring of the above in graphs
 - The influence of the environment towards the agents
 
-## Video:
-
-[![video-project](https://github.com/GeorgeCodeHub/Evolution-Simulator/blob/main/Screenshots/1.png)](https://github.com/GeorgeCodeHub/Evolution-Simulator/blob/main/LivePresentation.flv "Live Presentation")
-
 ---
 
 Below a few images showcasing how the project looks and works:
@@ -70,6 +66,8 @@ The user has the option to stop the simulation at any time, to see through graph
 ### Quality Graph
 
 ![qualitygraph](https://github.com/GeorgeCodeHub/Evolution-Simulator/blob/main/Screenshots/8.png)
+
+---
 
 ## FOREST World
 
