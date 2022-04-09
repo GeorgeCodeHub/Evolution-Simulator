@@ -97,3 +97,12 @@ Once the simulation starts, the agents and food are created in the enviroment.
 ### Total population Graph
 
 ![totalgraph](https://github.com/GeorgeCodeHub/Evolution-Simulator/blob/main/Screenshots/14.png)
+
+---
+
+# Inspired by:
+
+- [Practical guide to AI in Unity](https://www.udemy.com/course/ai-in-unity/)
+- [Primer - Simulating Natural Selection](https://www.youtube.com/watch?v=0ZGbIKd0XrM)
+- [Sebastian Lague - Coding Adventure: Simulating an Ecosystem](https://www.youtube.com/watch?v=r_It_X7v-1E)
+- [Line Graphs](https://www.youtube.com/watch?v=tRMWZzHhmAM)
